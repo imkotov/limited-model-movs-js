@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  padding: 10px;
+}
+div.arena {
+  width: 500px;
+  height: 500px;
+  border: 1px solid #ededed;
+  margin: auto;
+  position: relative;
+}
+div.block {
+  width: 10px;
+  height: 10px;
+  background-color: #212121;
+  position: absolute;
+}
